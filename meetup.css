@@ -8,7 +8,6 @@ body{
 }
 
 .main-page{
-    /* background-color: red; */
     margin: 0;
     padding: 0;
 }
@@ -17,8 +16,6 @@ body{
     display: flex;
     justify-content: space-between;
     position: relative;
-    /* background-color: blanchedalmond; */
-    /* color: green; */
     width: 100%;
     padding: 0 20px;
 }
@@ -47,38 +44,10 @@ ul.left-nav{
     margin: 0;
     padding: 0;
     list-style: none;
-    display: inline-block;
     display: flex;
     display: inline-block;
 }
 
 .celebrating{
-    margin: 100px 0 0 0;
-    display: flex;
-    width: 50%;
-    font-family: Graphik Meetup,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
-    background-image: url(./images/image.first.svg);
-    background-repeat: no-repeat;
-    background-position: right;
+    /* display: flex; */
 }
-
-.celebrating h1{
-    font-size: 3rem;
-    /* width: 50%; */
-    font-weight: 700;
-}
-
-.text-box p{
-    color: red;
-    /* width: 70%; */
-    /* font-size: 20px; */
-}
-
-
-.text-box{
-    /* padding: 0 0 0 100px; */
-    margin: 0 0 0 100px;
-    width: 100%;
-}
-
-
