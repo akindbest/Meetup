@@ -39,6 +39,7 @@ body{
 }
 
 ul.left-nav{
+
 }
 
 .left-nav li{
@@ -50,10 +51,25 @@ ul.left-nav{
 }
 
 .celebrating{
-    margin: 50px;
+    margin: 80px 40px;
+    padding: 96px;
     display: flex;
+    font-family: Graphik Meetup,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
 }
 
 .celebrating h1{
+    font-size: 3rem;
+    line-height: 1;
+}
 
+.celebrating p{
+    font-size: 16px;
+}
+
+.first-image{
+    width: 100%;
+}
+
+.second-line{
+    display: flex;
 }
